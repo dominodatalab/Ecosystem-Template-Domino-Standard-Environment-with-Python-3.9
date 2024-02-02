@@ -1,0 +1,6 @@
+{
+  "title": "Ecosystem Template Domino Standard Environment with Python 3.9",
+  "id": "Ecosystem Template Domino Standard Environment with Python 3.9",
+  "environmentBaseImage": "quay.io/domino/compute-environment-images:ubuntu20-py3.9-r4.3-domino5.9-standard",
+  "description": "This is a Domino Standard Environment made for an Ecosystem Template, which requires Python 3.9."
+}
